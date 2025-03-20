@@ -20,7 +20,7 @@ This repository contains a deep learning model that analyzes spectrogram images 
 - [Results](#results)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
