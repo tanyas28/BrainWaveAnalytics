@@ -123,9 +123,3 @@ Contributions are welcome! Open an issue or submit a PR for:
 - Additional neurological disorders
 
 ---
-```
-
----
-
-### 📌 Replace `<yourusername>`, dataset sources, and add images before publishing!
-
